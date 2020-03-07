@@ -1,0 +1,102 @@
+INFO  started: Metals version 0.8.0 in workspace '/home/drai06/Escritorio/dojo-scala-pedro'
+INFO  time: initialize in 1.43s
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/olaScala.scala
+mar. 07, 2020 5:21:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+mar. 07, 2020 5:21:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+mar. 07, 2020 5:21:29 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Condicional.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Condicional.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Condicional.scala
+mar. 07, 2020 5:39:19 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTraceNotification
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Coleccion.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Coleccion.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Coleccion.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Coleccion.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Ejercicio.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Persona.scala
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace '/home/drai06/Escritorio/dojo-scala-pedro'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/HolaScala.scala
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Factorial.scala
+mar. 07, 2020 6:36:01 A. M. scala.meta.internal.pc.CompilerAccess handleError
+GRAVE: offset 124, count -1, length 150
+java.lang.StringIndexOutOfBoundsException: offset 124, count -1, length 150
+	at java.base/java.lang.String.checkBoundsOffCount(String.java:3304)
+	at java.base/java.lang.String.rangeCheck(String.java:280)
+	at java.base/java.lang.String.<init>(String.java:276)
+	at scala.tools.nsc.interactive.Global.typeCompletions$1(Global.scala:1230)
+	at scala.tools.nsc.interactive.Global.completionsAt(Global.scala:1253)
+	at scala.meta.internal.pc.SignatureHelpProvider.$anonfun$treeSymbol$1(SignatureHelpProvider.scala:369)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.pc.SignatureHelpProvider.treeSymbol(SignatureHelpProvider.scala:368)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCall$.unapply(SignatureHelpProvider.scala:197)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.visit(SignatureHelpProvider.scala:305)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.traverse(SignatureHelpProvider.scala:300)
+	at scala.meta.internal.pc.SignatureHelpProvider$MethodCallTraverser.fromTree(SignatureHelpProvider.scala:269)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:26)
+
+WARN  no build target for: /home/drai06/Escritorio/dojo-scala-pedro/Factorial.scala
